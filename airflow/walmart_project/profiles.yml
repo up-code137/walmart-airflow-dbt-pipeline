@@ -1,0 +1,11 @@
+walmart_project:
+  outputs:
+    dev:
+      catalog: walmart
+      host: YOUR DATBRICKS HOST URL
+      http_path: YOUR DATBRICKS HTTP PATH
+      schema: dbt_schema
+      threads: 1
+      token: YOUR DATBRICKS TOKEN
+      type: databricks
+  target: dev

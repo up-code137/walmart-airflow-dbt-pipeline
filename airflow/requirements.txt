@@ -1,0 +1,3 @@
+databricks-sdk
+dbt-core
+dbt-databricks
